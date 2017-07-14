@@ -2,6 +2,9 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 
+import OpeningHours from './component/opening-hours/OpeningHours';
+
+
 class App extends Component {
   render() {
     return (
@@ -13,6 +16,9 @@ class App extends Component {
             <small>To get started, edit <code>src/App.js</code> and save to reload.</small>
           </p>
         </div>
+
+        <OpeningHours />
+
       </div>
     );
   }
