@@ -1,3 +1,13 @@
+# React Components
+
+This is a small collection of React components that I've been working or experimenting with.
+
+I am still at the beginning with React, so treat all of this as a work in progress.
+
+Each component will be on its own branch.
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
